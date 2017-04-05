@@ -1,0 +1,20 @@
+{
+  "name": "@fivblue/eos",
+  "version": "0.0.2",
+  "description": "operating system for my elisa platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/mofc3t15/eos"
+  },
+  "keywords": [
+    "Elisa",
+    "Operating",
+    "System"
+  ],
+  "author": "Liyakhath Asif",
+  "license": "MIT"
+}

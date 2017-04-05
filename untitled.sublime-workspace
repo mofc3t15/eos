@@ -1,0 +1,318 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"react-nat",
+				"react-native-fs"
+			],
+			[
+				"H",
+				"HomePage"
+			],
+			[
+				"n",
+				"nRoutes"
+			],
+			[
+				"C",
+				"CakeScenesStore"
+			],
+			[
+				"Ap",
+				"AppIntro"
+			],
+			[
+				"S",
+				"SplashScreen"
+			],
+			[
+				"styl",
+				"StyleSheet"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 260.0,
+		"last_filter": "package control: in",
+		"selected_items":
+		[
+			[
+				"package control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Navigator"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"package control: insa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+			"dir",
+			"clear",
+			"celar",
+			"dir",
+			"clear",
+			"clar"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/liyakhath/Projects/os/eos"
+	],
+	"file_history":
+	[
+		"/home/liyakhath/workspace/elisa/README.md",
+		"/home/liyakhath/workspace/elisa/node_modules/serialport/lib/serialport.js",
+		"/home/liyakhath/workspace/elisa/package.json",
+		"/home/liyakhath/workspace/elisa/.gitignore",
+		"/home/liyakhath/www/elisa-web/src/App.js",
+		"/home/liyakhath/cake/pages/TabHome.js",
+		"/home/liyakhath/cake/android/settings.gradle",
+		"/home/liyakhath/cake/index.android.js",
+		"/home/liyakhath/cake/android/app/src/main/java/com/cake/MainActivity.java",
+		"/home/liyakhath/cake/android/app/src/main/java/com/cake/MainApplication.java",
+		"/home/liyakhath/cake/android/app/build.gradle",
+		"/home/liyakhath/cake/pages/Home.js",
+		"/home/liyakhath/cake/pages/AppIntroPage.js",
+		"/home/liyakhath/Projects/rankA/cake/bakkk/pages/Home.js",
+		"/home/liyakhath/cake/bakks.js",
+		"/home/liyakhath/temp/customer_app/package.json",
+		"/home/liyakhath/temp/node/index.html",
+		"/home/liyakhath/Desktop/node/server.js",
+		"/home/liyakhath/Desktop/node/procfile",
+		"/home/liyakhath/Desktop/node/package.json",
+		"/home/liyakhath/Projects/rankA/cake/Cake/baks.js",
+		"/home/liyakhath/Projects/rankA/cake/Cake/pages/Home.js",
+		"/home/liyakhath/Projects/rankA/cake/Cake/index.android.js",
+		"/home/liyakhath/Projects/rankA/cake/Cake/pages/AppIntroPage.js",
+		"/home/liyakhath/Projects/rankA/cake/Cake/node_modules/react-native-tab-view/src/TabBar.js",
+		"/home/liyakhath/Projects/rankA/cake/Cake/node_modules/react-native-tab-view/index.js",
+		"/home/liyakhath/Projects/rankA/cake/Cake/node_modules/react-native-app-intro/AppIntro.js",
+		"/home/liyakhath/Projects/rankA/cake/Cake/node_modules/react-native-tab-view/src/TabViewAnimated.js",
+		"/home/liyakhath/Projects/rankA/cake/Cake/allback.js",
+		"/home/liyakhath/Projects/rankA/cake/Cake/android/app/src/main/java/com/cake/MainApplication.java",
+		"/home/liyakhath/Projects/rankA/cake/Cake/android/app/src/main/java/com/cake/MainActivity.java",
+		"/home/liyakhath/Projects/rankA/cake/Cake/android/app/build.gradle",
+		"/home/liyakhath/Projects/rankA/cake/Cake/android/settings.gradle",
+		"/home/liyakhath/Projects/rankA/cake/Cake/images/dummy",
+		"/home/liyakhath/Projects/rankA/cake/Cake/MyScene.js",
+		"/home/liyakhath/Projects/rankA/cake/Cake/pages/home.js",
+		"/home/liyakhath/workspace/rn/learn/index.ios.js",
+		"/home/liyakhath/.config/sublime-text-3/Packages/User/React Native Run.sublime-build",
+		"/home/liyakhath/workspace/rn/learn/index.android.js",
+		"/home/liyakhath/workspace/rn/Cake/index.ios.js",
+		"/home/liyakhath/workspace/rn/Cake/index.android.js",
+		"/home/liyakhath/workspace/rn/Cake/.gitattributes",
+		"/home/liyakhath/workspace/rn/Cake/package.json",
+		"/home/liyakhath/workspace/rn/Cake/android/gradle.properties",
+		"/home/liyakhath/workspace/rn/Cake/android/settings.gradle",
+		"/home/liyakhath/Desktop/untitled.js"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 136.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"this.props.renderIcon",
+			"View"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 110.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "eos.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"serial",
+				"node_modules/serialport/lib/serialport.js"
+			],
+			[
+				"tabbar",
+				"node_modules/react-native-tab-view/src/TabBar.js"
+			],
+			[
+				"tab",
+				"node_modules/react-native-tab-view/src/TabBar.js"
+			],
+			[
+				"set",
+				"android/settings.gradle"
+			],
+			[
+				"gra",
+				"android/gradle.properties"
+			],
+			[
+				"s",
+				"android/settings.gradle"
+			],
+			[
+				"settin",
+				"android/settings.gradle"
+			],
+			[
+				"package",
+				"package.json"
+			],
+			[
+				"index",
+				"index.ios.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 213.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
